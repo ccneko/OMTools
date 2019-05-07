@@ -4,6 +4,8 @@ A software package for optical mapping data processing, analysis and visualizati
 
 Please refer to "OMToolsManual.pdf" for more details. 
 
+More information regarding optical mapping is available on https://opticalmapping.info/
+
 Quick steps
 ------------
 1.	Compile the OMTools package in the OMTools folder:
